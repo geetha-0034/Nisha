@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Leaflet DivIcon reset for crisp custom markers */
+.leaflet-div-icon {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Hide horizontal scrollbars where desired */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
