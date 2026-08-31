@@ -922,7 +922,8 @@ The interface includes:
 > Add screenshot here
 
 ```text
-docs/screenshots/landing.png
+<img width="521" height="720" alt="image" src="https://github.com/user-attachments/assets/f9deadfd-7610-41b5-90e8-5de3159a6b14" />
+
 ```
 
 ---
@@ -932,7 +933,8 @@ docs/screenshots/landing.png
 > Add screenshot here
 
 ```text
-docs/screenshots/dashboard.png
+<img width="1185" height="821" alt="image" src="https://github.com/user-attachments/assets/529ac8ee-078b-4088-b900-707dbc0bf7dc" />
+
 ```
 
 ---
@@ -942,7 +944,8 @@ docs/screenshots/dashboard.png
 > Add screenshot here
 
 ```text
-docs/screenshots/safety-mode.png
+<img width="1260" height="810" alt="image" src="https://github.com/user-attachments/assets/039445c0-7faf-4893-a276-9a2ac70d2274" />
+
 ```
 
 ---
@@ -952,7 +955,8 @@ docs/screenshots/safety-mode.png
 > Add screenshot here
 
 ```text
-docs/screenshots/sos-active.png
+<img width="1359" height="467" alt="image" src="https://github.com/user-attachments/assets/d23ec285-4f78-4cad-9992-24668c0f810a" />
+
 ```
 
 ---
@@ -962,7 +966,8 @@ docs/screenshots/sos-active.png
 > Add screenshot here
 
 ```text
-docs/screenshots/trusted-contacts.png
+<img width="1163" height="397" alt="image" src="https://github.com/user-attachments/assets/63b96272-6bb4-49a3-8a8e-4405a4a6505f" />
+
 ```
 
 ---
@@ -972,7 +977,8 @@ docs/screenshots/trusted-contacts.png
 > Add screenshot here
 
 ```text
-docs/screenshots/incidents.png
+<img width="1148" height="764" alt="image" src="https://github.com/user-attachments/assets/30402c95-eec6-4395-89cb-0756b3465b05" />
+
 ```
 
 ---
